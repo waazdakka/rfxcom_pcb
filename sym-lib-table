@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "arduino_mega_pro_embedded")(type "KiCad")(uri "${KIPRJMOD}/libraries/arduino_mega_pro_embedded.kicad_sym")(options "")(descr ""))
+  (lib (name "stm32l412")(type "KiCad")(uri "${KIPRJMOD}/libraries/stm32l412.kicad_sym")(options "")(descr ""))
 )
