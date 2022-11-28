@@ -433,6 +433,14 @@
     [
       "af7244c6-20a2-4430-b9fe-3dc07fd920f6",
       "USB & Power Supply"
+    ],
+    [
+      "9ceb77d0-b2a8-4627-a98b-574f68b53a7c",
+      "MCU"
+    ],
+    [
+      "857819da-db69-42f6-bdb9-a04ec58f0d79",
+      "Radio"
     ]
   ],
   "text_variables": {}
